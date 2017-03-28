@@ -1,6 +1,11 @@
 # iMouse
 Controlling the Laptop mouse using only head movements. A proof of concept prototype to help realize the possibilities which will help quadriplegia patients use a Laptop.
 
+## Demonstration of the app
+Click the below image to view the video
+
+[![image](http://img.youtube.com/vi/TvFjCcVrsnQ/0.jpg)](https://youtu.be/TvFjCcVrsnQ)  
+
 ## How to use
 For common users:
 Extract the iMouse_test1_windows.zip and run the iMouse.exe file.
